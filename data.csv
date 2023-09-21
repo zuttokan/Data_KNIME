@@ -1,0 +1,257 @@
+"Ancienneté_an","Service","Work_accident","Contrat","Salaire base mensuel","Augmentation","Promotion","Sexe","Age","Tranche d'age","Tranche d'anciennneté","rank"
+12.6,"Marketing","Non","CDI",6583.85,1,1,"Femme",64,"60 et plus","10-14",1
+11.8,"Commercial","Oui","CDI",4974.32,0,1,"Femme",66,"60 et plus","10-14",2
+11.9,"RH","Non","CDI",8860.8,1,1,"Femme",49,"45-55","10-14",3
+10.2,"Compta Finances","Non","CDI",8328.0167,1,0,"Femme",41,"35-45","10-14",4
+7.9,"Consultant","Non","CDI",7304.2667,1,0,"Femme",44,"35-45","5-9",5
+8.6,"RH","Oui","CDI",7637.9333,1,0,"Femme",56,"55-60","5-9",6
+14.9,"Commercial","Non","CDI",1590.9833,1,0,"Homme",52,"45-55",,7
+6.3,"Consultant","Non","CDI",9782.5,0,1,"Femme",50,"45-55","5-9",8
+18.2,"Commercial","Oui","CDI",8126.3,1,0,"Femme",53,"45-55","15-19",9
+23.1,"Commercial","Oui","CDI",5092.9667,1,1,"Femme",48,"45-55","20-24",10
+23.8,"Consultant","Non","CDI",9426.0833,1,0,"Femme",57,"55-60","20-24",11
+6.7,"RH","Non","CDI",4117.36,1,1,"Femme",67,"60 et plus","5-9",12
+23.9,"Commercial","Oui","CDI",6163.7333,1,1,"Femme",54,"45-55","20-24",13
+18.6,"RH","Non","CDI",5293.1667,0,1,"Femme",67,"60 et plus","15-19",14
+20.5,"Compta Finances","Oui","CDI",2604.1167,1,0,"Homme",66,"60 et plus","20-24",15
+24.1,"Marketing","Non","CDI",7184.45,1,1,"Homme",49,"45-55",,16
+13.3,"Consultant","Non","CDI",2813.72,1,1,"Homme",61,"60 et plus","10-14",17
+15.2,"Compta Finances","Non","CDI",7753.2,1,0,"Homme",49,"45-55","15-19",18
+1.1,"Compta Finances","Non","CDD",1920.1,,,"Femme",37,"35-45","0-4",19
+9.1,"Consultant","Non","CDI",9162.1833,1,1,"Femme",58,"55-60",,20
+10.3,"Consultant","Oui","CDI",3459.5167,0,0,"Femme",61,"60 et plus","10-14",21
+19.5,"RH","Non","CDI",3060.72,0,1,"Femme",57,"55-60",,22
+9.9,"Marketing","Non","CDI",7358.8667,1,1,"Homme",36,"35-45",,23
+1.1,"Consultant","Non","CDD",2226.4667,,,"Femme",39,"35-45","0-4",24
+7.9,"RH","Oui","CDI",7148.05,1,1,"Femme",41,"35-45","5-9",25
+5.2,"RH","Non","CDI",8746.6167,0,1,"Femme",42,"35-45","5-9",26
+18.6,"Compta Finances","Non","CDI",5724.16,1,1,"Homme",41,"35-45","15-19",27
+10.3,"Compta Finances","Oui","CDI",3436.7667,1,1,"Homme",43,"35-45","10-14",28
+16.5,"Compta Finances","Non","CDI",7889.7,0,1,"Femme",39,"35-45","15-19",29
+13.8,"Commercial","Non","CDI",5749.6833,0,0,"Homme",60,"60 et plus","10-14",30
+13.8,"Commercial","Oui","CDI",9497.3667,1,1,"Femme",52,"45-55","10-14",31
+13.1,"Marketing","Oui","CDI",8696.5667,1,0,"Homme",65,"60 et plus","10-14",32
+16.2,"Commercial","Oui","CDI",5949.8833,1,0,"Homme",38,"35-45","15-19",33
+24.7,"Consultant","Non","CDI",5739.0667,1,1,"Femme",59,"55-60",,34
+3,"Commercial","Non","CDI",6838.65,0,0,"Femme",37,"35-45","0-4",35
+4.6,"Commercial","Oui","CDI",6212.2667,1,0,"Femme",52,"45-55",,36
+6.2,"Consultant","Non","CDI",2834.65,1,0,"Homme",68,"60 et plus","5-9",37
+14.3,"Compta Finances","Non","CDI",6127.3333,1,0,"Femme",56,"55-60",,38
+16.2,"RH","Non","CDI",3012.1,1,1,"Femme",60,"60 et plus","15-19",39
+6,"R&D","Oui","CDI",6494.3667,0,0,"Homme",46,"45-55","5-9",40
+12.5,"Compta Finances","Non","CDI",7601.5333,1,1,"Femme",48,"45-55","10-14",41
+3.4,"Consultant","Oui","CDI",2675.4,1,0,"Homme",60,"60 et plus","0-4",42
+16.2,"RH","Oui","CDI",2507.44,1,1,"Femme",53,"45-55","15-19",43
+17.4,"Consultant","Oui","CDI",2561.65,0,0,"Homme",42,"35-45","15-19",44
+19.2,"Commercial","Oui","CDI",6031.7833,1,0,"Homme",51,"45-55",,45
+21.2,"Consultant","Non","CDI",2918.0667,1,1,"Homme",53,"45-55","20-24",46
+16.9,"Consultant","Oui","CDI",6043.9167,1,1,"Homme",49,"45-55","15-19",47
+24.2,"Consultant","Oui","CDI",4000.9667,1,1,"Homme",48,"45-55",,48
+7,"Consultant","Non","CDI",6398.8167,1,0,"Homme",55,"55-60","5-9",49
+14.2,"Consultant","Oui","CDI",2024.75,1,0,"Homme",52,"45-55",,50
+19.1,"Consultant","Oui","CDI",6973.6333,0,1,"Homme",58,"55-60",,51
+8.1,"Compta Finances","Non","CDI",4013.1,0,1,"Femme",42,"35-45","5-9",52
+24.8,"Compta Finances","Oui","CDI",3853.2,1,1,"Femme",58,"55-60",,53
+6.4,"RH","Oui","CDI",9635.3833,1,0,"Homme",48,"45-55","5-9",54
+19,"RH","Non","CDI",9642.9667,0,0,"Homme",60,"60 et plus","15-19",55
+8.2,"Commercial","Non","CDI",2309.8833,0,0,"Femme",59,"55-60","5-9",56
+6.7,"Marketing","Oui","CDI",9218.3,0,0,"Femme",48,"45-55","5-9",57
+7.2,"Consultant","Oui","CDI",3891.7667,0,0,"Homme",63,"60 et plus","5-9",58
+15.8,"Compta Finances","Oui","CDI",8655.6167,1,0,"Femme",49,"45-55","15-19",59
+4.2,"R&D","Oui","CDI",5212.7833,0,0,"Homme",56,"55-60",,60
+14,"Marketing","Non","CDI",1598.5667,0,1,"Femme",39,"35-45","10-14",61
+4.4,"RH","Non","CDI",5076.2833,0,0,"Femme",59,"55-60",,62
+5.5,"Compta Finances","Non","CDI",7185.9667,1,1,"Homme",66,"60 et plus","5-9",63
+7.9,"R&D","Oui","CDI",9573.2,1,0,"Homme",54,"45-55","5-9",64
+13.8,"Marketing","Non","CDI",7637.9333,0,0,"Homme",42,"35-45","10-14",65
+6.6,"Consultant","Non","CDI",2027.7833,0,1,"Femme",43,"35-45","5-9",66
+5.7,"Consultant","Non","CDI",1703.2167,1,0,"Femme",53,"45-55","5-9",67
+7.2,"Consultant","Oui","CDI",6413.9833,1,0,"Femme",51,"45-55","5-9",68
+1.8,"Consultant","Non","CDD",2558.6167,,,"Homme",44,"35-45","0-4",69
+19.3,"Marketing","Oui","CDI",3655.1667,0,1,"Homme",68,"60 et plus",,70
+14.9,"Commercial","Non","CDI",9488.2667,1,1,"Homme",60,"60 et plus",,71
+9.3,"Compta Finances","Oui","CDI",4204.2,1,1,"Femme",56,"55-60",,72
+17.3,"RH","Non","CDI",7687.9833,0,0,"Femme",50,"45-55","15-19",73
+22.6,"R&D","Non","CDI",4165.2,0,1,"Homme",63,"60 et plus","20-24",74
+14.3,"Commercial","Oui","CDI",7713.7667,1,0,"Homme",59,"55-60",,75
+15.1,"RH","Non","CDI",5067.1833,1,0,"Femme",60,"60 et plus","15-19",76
+3.8,"Commercial","Non","CDI",2070.25,0,0,"Femme",64,"60 et plus","0-4",77
+13.9,"Commercial","Oui","CDI",9555,1,0,"Femme",41,"35-45","10-14",78
+21.1,"Commercial","Non","CDI",5805.8,0,0,"Homme",44,"35-45","20-24",79
+9.9,"Commercial","Oui","CDI",4882.8,1,1,"Femme",58,"55-60",,80
+22.7,"Compta Finances","Oui","CDI",6743.36,0,0,"Femme",48,"45-55","20-24",81
+23.3,"R&D","Oui","CDI",6178.64,0,0,"Homme",55,"55-60","20-24",82
+24.2,"Commercial","Oui","CDI",2828.5833,0,0,"Homme",57,"55-60",,83
+5.5,"Compta Finances","Non","CDI",1979.25,1,1,"Homme",46,"45-55","5-9",84
+24.7,"Commercial","Non","CDI",3800.7667,1,1,"Femme",64,"60 et plus",,85
+4.8,"Compta Finances","Non","CDI",4198.1333,1,1,"Femme",38,"35-45",,86
+3.5,"Compta Finances","Non","CDI",2008.0667,0,0,"Femme",34,"25-35","0-4",87
+10.6,"Commercial","Non","CDI",8828.5167,0,1,"Femme",39,"35-45","10-14",88
+23.3,"R&D","Oui","CDI",7654.6167,1,1,"Homme",48,"45-55","20-24",89
+10.8,"Marketing","Oui","CDI",4763.85,1,0,"Femme",45,"45-55","10-14",90
+21.2,"RH","Non","CDI",2735.2,0,1,"Homme",62,"60 et plus","20-24",91
+23.9,"RH","Oui","CDI",3797.7333,0,0,"Femme",57,"55-60","20-24",92
+24,"RH","Oui","CDI",5035.3333,0,1,"Homme",62,"60 et plus","20-24",93
+15.6,"Marketing","Non","CDI",4022.2,0,1,"Homme",63,"60 et plus","15-19",94
+5.8,"Consultant","Oui","CDI",5810.35,1,0,"Homme",45,"45-55","5-9",95
+20,"Commercial","Oui","CDI",8428.1167,1,0,"Homme",58,"55-60","20-24",96
+19,"Consultant","Oui","CDI",5455.45,0,1,"Homme",58,"55-60","15-19",97
+7.4,"Compta Finances","Non","CDI",9256.2167,1,0,"Femme",63,"60 et plus","5-9",98
+14.9,"RH","Oui","CDI",3835.65,0,1,"Femme",61,"60 et plus",,99
+11.8,"RH","Non","CDI",3882.6667,0,1,"Homme",38,"35-45","10-14",100
+7.5,"RH","Oui","CDI",7710.7333,0,1,"Homme",42,"35-45","5-9",101
+9.3,"Consultant","Non","CDI",5097.2133,1,0,"Homme",49,"45-55",,102
+21.1,"Consultant","Non","CDI",2073.2833,0,1,"Femme",49,"45-55","20-24",103
+8.7,"Compta Finances","Oui","CDI",8696.5667,0,1,"Homme",66,"60 et plus","5-9",104
+20.2,"Consultant","Oui","CDI",6591.4333,0,0,"Femme",65,"60 et plus","20-24",105
+8.8,"Marketing","Non","CDI",3256.2833,0,0,"Femme",60,"60 et plus","5-9",106
+22.8,"Consultant","Non","CDI",4134.4333,0,0,"Homme",45,"45-55","20-24",107
+8.3,"Consultant","Non","CDI",4281.55,1,0,"Homme",43,"35-45","5-9",108
+22.2,"RH","Non","CDI",7877.5667,1,0,"Femme",52,"45-55","20-24",109
+2.9,"Consultant","Non","CDI",4449.9,1,1,"Homme",57,"55-60","0-4",110
+17,"Commercial","Oui","CDI",3260.8333,1,0,"Femme",42,"35-45","15-19",111
+1.2,"Consultant","Non","CDD",2357.3333,,,"Homme",56,"55-60","0-4",112
+9.8,"RH","Non","CDI",5106.6167,0,1,"Femme",55,"55-60",,113
+0.3,"Marketing","Non","CDD",3693.0833,,,"Homme",45,"45-55","0-4",114
+21.8,"Marketing","Oui","CDI",8056.5333,0,0,"Femme",55,"55-60","20-24",115
+12.6,"Consultant","Oui","CDI",4289.1333,0,1,"Femme",68,"60 et plus","10-14",116
+18.7,"Commercial","Oui","CDI",9573.2,0,0,"Homme",53,"45-55","15-19",117
+13.2,"Consultant","Non","CDI",2055.04,0,1,"Homme",66,"60 et plus","10-14",118
+13.7,"Compta Finances","Oui","CDI",2079.35,1,1,"Femme",54,"45-55","10-14",119
+10.2,"Marketing","Non","CDI",4624.3167,0,0,"Homme",45,"45-55","10-14",120
+13,"Compta Finances","Oui","CDI",9978.15,0,1,"Homme",52,"45-55","10-14",121
+16.2,"Marketing","Oui","CDI",4563.65,1,0,"Femme",55,"55-60","15-19",122
+20.5,"Commercial","Oui","CDI",6121.2667,0,0,"Homme",44,"35-45","20-24",123
+11.7,"RH","Oui","CDI",8108.1,0,0,"Femme",39,"35-45","10-14",124
+21.9,"Commercial","Non","CDI",7496.8833,1,0,"Femme",48,"45-55","20-24",125
+5.9,"Marketing","Non","CDI",5930.1667,0,0,"Homme",49,"45-55","5-9",126
+20.6,"RH","Oui","CDI",4851.6,0,0,"Femme",43,"35-45","20-24",127
+24.4,"R&D","Oui","CDI",4663.75,0,1,"Femme",62,"60 et plus",,128
+19.4,"Commercial","Non","CDI",8629.8333,0,0,"Femme",53,"45-55",,129
+15.7,"Compta Finances","Non","CDI",4263.35,0,0,"Homme",60,"60 et plus","15-19",130
+1.8,"Compta Finances","Non","CDD",2123.3333,,,"Femme",63,"60 et plus","0-4",131
+10,"RH","Oui","CDI",9928.1,1,0,"Homme",38,"35-45","10-14",132
+24.2,"Marketing","Non","CDI",4424.1167,0,0,"Femme",54,"45-55",,133
+24.3,"Commercial","Non","CDI",6818.9333,1,0,"Femme",52,"45-55",,134
+23.5,"Consultant","Oui","CDI",2777.0167,1,0,"Homme",63,"60 et plus","20-24",135
+22.7,"Marketing","Non","CDI",9940.2333,0,0,"Homme",47,"45-55","20-24",136
+22.6,"Commercial","Non","CDI",3677.9167,0,0,"Homme",44,"35-45","20-24",137
+10.5,"Commercial","Non","CDI",9777.95,1,0,"Femme",47,"45-55","10-14",138
+6.3,"Commercial","Oui","CDI",8337.1167,0,1,"Homme",40,"35-45","5-9",139
+11.7,"Compta Finances","Oui","CDI",8422.05,0,1,"Femme",59,"55-60","10-14",140
+22.8,"R&D","Oui","CDI",6526.2167,0,1,"Homme",65,"60 et plus","20-24",141
+23.2,"Commercial","Oui","CDI",7098,1,1,"Homme",55,"55-60","20-24",142
+12.4,"Marketing","Non","CDI",1669.85,1,0,"Homme",34,"25-35","10-14",143
+9.2,"Consultant","Oui","CDI",7269.08,1,1,"Homme",56,"55-60",,144
+22.2,"Compta Finances","Non","CDI",4988.3167,0,0,"Homme",56,"55-60","20-24",145
+21.5,"RH","Oui","CDI",8563.1,0,0,"Homme",49,"45-55","20-24",146
+12.5,"Consultant","Non","CDI",2843.75,0,0,"Homme",53,"45-55","10-14",147
+14.2,"Compta Finances","Non","CDI",4421.0833,1,1,"Homme",58,"55-60",,148
+17.2,"Commercial","Oui","CDI",9785.5333,0,1,"Homme",41,"35-45","15-19",149
+22.3,"Marketing","Non","CDI",4082.8667,0,1,"Femme",49,"45-55","20-24",150
+5.2,"Compta Finances","Non","CDI",8332.5667,0,0,"Femme",44,"35-45","5-9",151
+10,"Commercial","Oui","CDI",7927.6167,1,0,"Homme",52,"45-55","10-14",152
+11.9,"Compta Finances","Non","CDI",1059.76,0,1,"Femme",41,"35-45","10-14",153
+10.2,"Commercial","Non","CDI",2916.55,1,1,"Femme",45,"45-55","10-14",154
+11.7,"Consultant","Non","CDI",3547.4833,1,0,"Femme",43,"35-45","10-14",155
+20.4,"RH","Non","CDI",3803.8,0,0,"Homme",49,"45-55","20-24",156
+5.6,"Consultant","Oui","CDI",4795.44,0,1,"Homme",37,"35-45","5-9",157
+17.3,"Commercial","Non","CDI",6902.35,0,1,"Femme",41,"35-45","15-19",158
+16.4,"Compta Finances","Non","CDI",1772.9833,1,1,"Homme",57,"55-60","15-19",159
+7.1,"Consultant","Non","CDI",6409.4333,0,1,"Homme",60,"60 et plus","5-9",160
+4.2,"Marketing","Oui","CDI",2912,0,1,"Femme",62,"60 et plus",,161
+12.7,"RH","Oui","CDI",7263.3167,1,0,"Homme",60,"60 et plus","10-14",162
+4.4,"Consultant","Oui","CDI",1803.3167,1,0,"Homme",38,"35-45",,163
+19.3,"RH","Non","CDI",3218.3667,1,0,"Femme",56,"55-60",,164
+9.7,"Consultant","Oui","CDI",6301.75,0,1,"Femme",64,"60 et plus",,165
+5.3,"Commercial","Oui","CDI",2928.6833,1,1,"Femme",60,"60 et plus","5-9",166
+24.9,"Commercial","Non","CDI",5984.7667,0,1,"Homme",52,"45-55",,167
+12,"Consultant","Oui","CDI",4712.2833,1,1,"Femme",46,"45-55","10-14",168
+7.5,"RH","Non","CDI",3335.15,1,0,"Homme",60,"60 et plus","5-9",169
+0.8,"Compta Finances","Oui","CDD",3201.6833,,,"Femme",33,"25-35","0-4",170
+8.2,"Marketing","Oui","CDI",5951.92,1,0,"Femme",56,"55-60","5-9",171
+16.8,"Marketing","Oui","CDI",3597.5333,1,1,"Femme",46,"45-55","15-19",172
+5.5,"Consultant","Non","CDI",1774.5,1,1,"Femme",55,"55-60","5-9",173
+1.1,"Marketing","Oui","CDD",3640,,,"Femme",52,"45-55","0-4",174
+20.1,"Consultant","Non","CDI",9400.3,1,1,"Homme",61,"60 et plus","20-24",175
+9.2,"Commercial","Oui","CDI",2511.6,0,1,"Homme",44,"35-45",,176
+20.6,"Marketing","Oui","CDI",3462.55,1,0,"Homme",46,"45-55","20-24",177
+12.8,"Commercial","Oui","CDI",2369.0333,0,0,"Femme",41,"35-45","10-14",178
+20.4,"RH","Non","CDI",8277.9667,0,0,"Homme",44,"35-45","20-24",179
+15.7,"Consultant","Non","CDI",5585.8833,1,0,"Femme",39,"35-45","15-19",180
+6.5,"Consultant","Oui","CDI",7178.3833,1,0,"Homme",39,"35-45","5-9",181
+10.8,"Commercial","Oui","CDI",7942.7833,1,0,"Femme",52,"45-55","10-14",182
+16.2,"Consultant","Oui","CDI",2731.5167,1,1,"Femme",54,"45-55","15-19",183
+8.3,"R&D","Non","CDI",8716.2833,0,0,"Homme",39,"35-45","5-9",184
+21.6,"Commercial","Oui","CDI",2396.3333,0,1,"Homme",54,"45-55","20-24",185
+21.1,"Consultant","Oui","CDI",9447.3167,1,1,"Homme",52,"45-55","20-24",186
+23,"Compta Finances","Oui","CDI",7898.8,0,1,"Femme",67,"60 et plus","20-24",187
+0.6,"Marketing","Oui","CDD",2426.6667,,,"Femme",56,"55-60","0-4",188
+9.7,"RH","Non","CDI",6175.8667,0,1,"Homme",36,"35-45",,189
+1.9,"Commercial","Oui","CDD",2881.6667,,,"Femme",59,"55-60","0-4",190
+10.7,"RH","Oui","CDI",9039.3333,1,1,"Homme",35,"35-45","10-14",191
+16.2,"RH","Non","CDI",5056.5667,1,1,"Femme",39,"35-45","15-19",192
+23.9,"Commercial","Oui","CDI",5581.3333,1,0,"Femme",45,"45-55","20-24",193
+7.4,"Consultant","Oui","CDI",9737,1,1,"Homme",58,"55-60","5-9",194
+10.3,"Compta Finances","Non","CDI",8056.5333,0,1,"Femme",65,"60 et plus","10-14",195
+19,"Compta Finances","Non","CDI",1835.1667,0,1,"Homme",43,"35-45","15-19",196
+7.3,"Consultant","Oui","CDI",5448.56,0,1,"Homme",59,"55-60","5-9",197
+6.3,"Consultant","Oui","CDI",1110.72,1,1,"Homme",56,"55-60","5-9",198
+3.8,"Consultant","Non","CDI",7672.8167,1,1,"Femme",47,"45-55","0-4",199
+0.4,"Consultant","Oui","CDD",3033.3333,,,"Femme",67,"60 et plus","0-4",200
+4.2,"R&D","Oui","CDI",6356.35,1,0,"Femme",41,"35-45",,201
+8.2,"Compta Finances","Non","CDI",1833.65,0,1,"Homme",61,"60 et plus","5-9",202
+22.4,"Marketing","Non","CDI",3582.3667,1,1,"Homme",53,"45-55","20-24",203
+1.7,"Commercial","Oui","CDD",3185,,,"Femme",51,"45-55","0-4",204
+23.9,"Marketing","Non","CDI",6842.16,1,1,"Homme",63,"60 et plus","20-24",205
+9.1,"R&D","Oui","CDI",9366.9333,1,1,"Femme",52,"45-55",,206
+2.5,"Marketing","Non","CDI",1863.9833,1,1,"Femme",40,"35-45","0-4",207
+1.4,"Marketing","Non","CDD",1989.8667,,,"Homme",42,"35-45","0-4",208
+5.8,"RH","Oui","CDI",4499.95,1,0,"Homme",57,"55-60","5-9",209
+1.4,"Consultant","Non","CDD",3168.3167,,,"Femme",51,"45-55","0-4",210
+17.2,"Compta Finances","Oui","CDI",3383.6833,0,0,"Homme",54,"45-55","15-19",211
+17.4,"Consultant","Oui","CDI",4516.6333,1,0,"Femme",50,"45-55","15-19",212
+17.1,"Consultant","Non","CDI",1651.65,0,0,"Homme",46,"45-55","15-19",213
+15.7,"Compta Finances","Non","CDI",8073.2167,1,1,"Homme",55,"55-60","15-19",214
+9.3,"Consultant","Non","CDI",2070.25,0,0,"Femme",32,"25-35",,215
+15.6,"Commercial","Non","CDI",8714.7667,1,0,"Homme",62,"60 et plus","15-19",216
+3.7,"RH","Oui","CDI",7157.15,0,0,"Femme",44,"35-45","0-4",217
+6,"Compta Finances","Oui","CDI",7377.0667,1,1,"Femme",65,"60 et plus","5-9",218
+18.4,"Commercial","Non","CDI",9069.6667,0,0,"Homme",49,"45-55","15-19",219
+15.7,"RH","Non","CDI",5359.9,1,0,"Homme",67,"60 et plus","15-19",220
+23.7,"Consultant","Oui","CDI",1851.5467,0,1,"Homme",51,"45-55","20-24",221
+24.4,"Consultant","Non","CDI",3232.0167,0,0,"Homme",47,"45-55",,222
+24,"RH","Oui","CDI",3508.05,0,1,"Homme",54,"45-55","20-24",223
+8.2,"Marketing","Oui","CDI",2998.45,1,1,"Homme",35,"35-45","5-9",224
+22.8,"Marketing","Oui","CDI",6002.9667,1,1,"Homme",53,"45-55","20-24",225
+6.8,"Commercial","Oui","CDI",3165.2833,0,1,"Femme",64,"60 et plus","5-9",226
+10.3,"Consultant","Oui","CDI",1709.76,1,1,"Homme",56,"55-60","10-14",227
+3.1,"RH","Non","CDI",3486.8167,0,1,"Homme",37,"35-45","0-4",228
+9.2,"RH","Oui","CDI",2767.9167,1,0,"Homme",67,"60 et plus",,229
+1.3,"Consultant","Oui","CDD",2496,,,"Femme",55,"55-60","0-4",230
+5.3,"Compta Finances","Oui","CDI",2052.05,1,1,"Femme",36,"35-45","5-9",231
+15.6,"Marketing","Oui","CDI",7264.8333,0,1,"Homme",63,"60 et plus","15-19",232
+5.8,"R&D","Oui","CDI",9096.9667,0,1,"Homme",64,"60 et plus","5-9",233
+15.8,"Commercial","Oui","CDI",4152.6333,1,1,"Femme",54,"45-55","15-19",234
+12.2,"Consultant","Oui","CDI",1873.0833,0,0,"Homme",54,"45-55","10-14",235
+8.4,"Consultant","Oui","CDI",5388.7167,1,0,"Femme",51,"45-55","5-9",236
+16.3,"Compta Finances","Oui","CDI",8218.8167,0,1,"Femme",68,"60 et plus","15-19",237
+25,"Consultant","Non","CDI",3097.0333,0,0,"Femme",67,"60 et plus",,238
+3.2,"Consultant","Oui","CDI",2132.4333,1,1,"Femme",52,"45-55","0-4",239
+15.2,"R&D","Non","CDI",8458.45,0,0,"Homme",43,"35-45","15-19",240
+23.3,"Marketing","Non","CDI",5517.6333,1,1,"Homme",51,"45-55","20-24",241
+13.1,"Commercial","Oui","CDI",6195.5833,0,1,"Homme",53,"45-55","10-14",242
+20,"R&D","Non","CDI",7081.3167,0,1,"Homme",60,"60 et plus","20-24",243
+22.4,"Commercial","Non","CDI",5895.76,1,1,"Femme",58,"55-60","20-24",244
+20.2,"Consultant","Non","CDI",7308.8167,0,1,"Femme",44,"35-45","20-24",245
+5.9,"RH","Oui","CDI",5522.1833,1,1,"Femme",68,"60 et plus","5-9",246
+18.9,"Compta Finances","Oui","CDI",2769.4333,0,0,"Homme",44,"35-45","15-19",247
+7.5,"Marketing","Non","CDI",5462.08,0,1,"Homme",37,"35-45","5-9",248
+8.2,"RH","Oui","CDI",3116.88,0,1,"Femme",67,"60 et plus","5-9",249
+17.8,"Marketing","Oui","CDI",9999.3833,0,1,"Homme",46,"45-55","15-19",250
+10.5,"Commercial","Non","CDI",5464.55,0,0,"Homme",54,"45-55","10-14",251
+3.3,"R&D","Oui","CDD",2848.3,1,0,"Homme",40,"35-45","0-4",252
+21.7,"Consultant","Non","CDI",1697.15,1,0,"Homme",59,"55-60","20-24",253
+13,"RH","Oui","CDI",3705.2167,1,1,"Femme",53,"45-55","10-14",254
+10.8,"Consultant","Non","CDI",4296.7167,0,1,"Homme",67,"60 et plus","10-14",255
+22.5,"Consultant","Non","CDI",9873.5,0,0,"Femme",47,"45-55","20-24",256
