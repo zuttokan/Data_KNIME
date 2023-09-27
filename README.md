@@ -5,7 +5,7 @@
 
 ## The project contains the following technologies:
 
-- <a  href="https://www.knime.com/"  title="Power_BI"><img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.knime.com%2Fgetting-started-guide&psig=AOvVaw23Rcu8mHLwBg2UXbTtIhGp&ust=1695891447024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCOjoy2yoEDFQAAAAAdAAAAABAE"  alt="Power BI"  width="25px"  height="21px"> Power BI</a>
+- <a  href="https://www.knime.com/"  title="KNIME"><img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.knime.com%2Fgetting-started-guide&psig=AOvVaw23Rcu8mHLwBg2UXbTtIhGp&ust=1695891447024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCOjoy2yoEDFQAAAAAdAAAAABAE"  alt="KNIME"  width="25px"  height="21px">KNIME</a>
 - <a  href="https://www.microsoft.com/fr/microsoft-365/powerpoint"  title="Power_Point"><img  src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-powerpoint.svg"  alt="Power Point"  width="25px"  height="21px"> Power Point</a>
 
 
@@ -29,11 +29,11 @@ presentation of the Equality Diagnosis tool a list of indicators to be monitored
 
 
 ## First page
-![DWFA first page](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/1a1ef5c8-ce8e-4f53-8ed5-0c097d0ad0ae)
+![p7 first page](https://github.com/zuttokan/Data_KNIME/assets/100352779/6ebfb646-6271-4852-b1bd-796da8f3a3c1)
 
-## Global efforts
-![dwfa vue mondiale](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/b76523eb-6930-478f-9f53-ce8a6253b0c1)
+## KNIME WORKFLOW
+![Knime schema](https://github.com/zuttokan/Data_KNIME/assets/100352779/c9c3bb9b-3103-4f48-9cea-819621d1b916)
 
-## National efforts
-![dwfa vue National](https://github.com/zuttokan/POWER_BI_DWFA/assets/100352779/ad8f3995-201d-4866-aff5-cf33147e35ca)
+## Visualization POWER pOINT
+![p7 page 3](https://github.com/zuttokan/Data_KNIME/assets/100352779/054480bf-21a0-4469-94aa-9d9c7bc3c1ea)
 
